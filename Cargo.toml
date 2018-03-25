@@ -1,0 +1,9 @@
+[package]
+name = "perceptron"
+version = "0.1.0"
+authors = ["tamamu <tamamu.1r1s@gmail.com>"]
+
+[dependencies]
+nalgebra = "0.14.1"
+num-traits = "0.2"
+alga = "0.5.3"
